@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pendu(jeu)", "Pendu(jeu).vcxproj", "{E22A308E-4127-4D3E-B4A5-293B6FC85364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Debug|x64.ActiveCfg = Debug|x64
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Debug|x64.Build.0 = Debug|x64
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Debug|x86.ActiveCfg = Debug|Win32
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Debug|x86.Build.0 = Debug|Win32
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Release|x64.ActiveCfg = Release|x64
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Release|x64.Build.0 = Release|x64
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Release|x86.ActiveCfg = Release|Win32
+		{E22A308E-4127-4D3E-B4A5-293B6FC85364}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D1F4513-0EE7-4F40-8835-0B1E79D1D721}
+	EndGlobalSection
+EndGlobal
